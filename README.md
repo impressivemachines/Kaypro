@@ -8,5 +8,8 @@ There are a lot of old Kaypro computers on eBay, and some keyboard only listings
 
 Check the files for the interface spec in file kaypro.md.
 
+The USB device will use the standard HID USB keyboard class, although some fancy footwork is needed because the Kaypro keyboard doesnt send information about modifiers or key up and key down events. So these have to be inferred from the codes that it does send.
+
+
 
 
