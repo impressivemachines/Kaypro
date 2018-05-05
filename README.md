@@ -1,6 +1,6 @@
 # Kaypro
 
-## Kaypro Keyboard USB Interface
+## Kaypro Keyboard -> USB Interface
 
 This project is about convering a retro Kaypro keyboard so that it can be plugged in to any computer via the USB port.
 
